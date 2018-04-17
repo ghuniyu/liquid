@@ -12,4 +12,6 @@
     <string name="action">Action</string>
     <string name="sign_out">Sign out</string>
     <string name="lorem_ipsum">Lorem Ipsum</string>
+    <string name="complete">Complete</string>
+    <string name="on_progress">On Progress</string>
 </resources>
